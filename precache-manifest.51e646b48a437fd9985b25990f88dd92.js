@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "1b4b1918522f2ccb0d74125cbc3664cb",
-    "url": "/static/media/goldern-hour-optmz.1b4b1918.jpg"
+    "revision": "e76da5b8c7f6ff620af97440ddebebeb",
+    "url": "/static/media/thoughts-optmz.e76da5b8.jpg"
   },
   {
-    "revision": "e6015259529a04b9b6a5",
-    "url": "/static/css/main.45854082.chunk.css"
+    "revision": "80f6ad8616653c46e61c",
+    "url": "/static/css/main.3b1c60c3.chunk.css"
   },
   {
-    "revision": "859bd90a2e093fea12f0",
-    "url": "/static/js/1.859bd90a.chunk.js"
+    "revision": "93b7ce03fdf6b523183b",
+    "url": "/static/js/1.93b7ce03.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/static/media/Abra-New-Day.19e94159.jpg"
   },
   {
-    "revision": "e6015259529a04b9b6a5",
-    "url": "/static/js/main.e6015259.chunk.js"
+    "revision": "1b4b1918522f2ccb0d74125cbc3664cb",
+    "url": "/static/media/goldern-hour-optmz.1b4b1918.jpg"
   },
   {
-    "revision": "e76da5b8c7f6ff620af97440ddebebeb",
-    "url": "/static/media/thoughts-optmz.e76da5b8.jpg"
+    "revision": "80f6ad8616653c46e61c",
+    "url": "/static/js/main.80f6ad86.chunk.js"
   },
   {
     "revision": "1d82d760febd76ed3cb4d37a36553381",
@@ -52,11 +52,19 @@ self.__precacheManifest = [
     "url": "/static/media/logo.59b6c4bd.png"
   },
   {
+    "revision": "26821b279f23b5a282addb14b43b7c0e",
+    "url": "/static/media/abra.26821b27.png"
+  },
+  {
+    "revision": "b48911952c5f34040c426f602e6cfdaf",
+    "url": "/static/media/adornata.b4891195.png"
+  },
+  {
     "revision": "b50cee58b75f89fc462f6aaad605000d",
     "url": "/static/media/Enduins-WebPrototype_Homepage.b50cee58.jpg"
   },
   {
-    "revision": "d69b15cd486ea09d65f1b1e125e7113b",
+    "revision": "9e436f6a5b273f88b9512673fd329dcd",
     "url": "/index.html"
   }
 ];
