@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/thoughts-optmz.e76da5b8.jpg"
   },
   {
-    "revision": "55a5aab0710727efc5ca",
+    "revision": "1798e18108781703c2c6",
     "url": "/static/css/main.7386c3cb.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/static/media/goldern-hour-optmz.1b4b1918.jpg"
   },
   {
-    "revision": "55a5aab0710727efc5ca",
-    "url": "/static/js/main.55a5aab0.chunk.js"
+    "revision": "1798e18108781703c2c6",
+    "url": "/static/js/main.1798e181.chunk.js"
   },
   {
     "revision": "1d82d760febd76ed3cb4d37a36553381",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/static/media/The-Nail-Room.0f6ffad7.png"
   },
   {
-    "revision": "26821b279f23b5a282addb14b43b7c0e",
-    "url": "/static/media/abra.26821b27.png"
+    "revision": "487ddcb83256856d7082996d23254b68",
+    "url": "/static/media/abra.487ddcb8.png"
   },
   {
-    "revision": "b48911952c5f34040c426f602e6cfdaf",
-    "url": "/static/media/adornata.b4891195.png"
+    "revision": "8897c73b6a2ec199742c0555db98e453",
+    "url": "/static/media/adornata.8897c73b.png"
   },
   {
     "revision": "59b6c4bd21e237693ac487484c89b78f",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/static/media/Enduins-WebPrototype_Homepage.b50cee58.jpg"
   },
   {
-    "revision": "e461e4a2a9e01c4b35560897e9de4350",
+    "revision": "1c89466bbe93c24f03182a6087c44b01",
     "url": "/index.html"
   }
 ];
