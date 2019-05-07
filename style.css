@@ -163,7 +163,7 @@ header h1{
 	top: 50%;
 	left: 50%;
 }*/
-.work input{
+.work img{
 	margin: 1%;
 	width: 45%;
 }
@@ -173,7 +173,7 @@ header h1{
 	padding-top: 60px;
 	padding-bottom: 30px;
 }
-.work2 input{
+.work2 img{
 	margin: 1%;
 	width: 45%;
 }
@@ -317,11 +317,11 @@ footer p{
 		width: 90%;
 		text-align: left;
 	}
-	.work input{
+	.work img{
 		margin: 2%;
 		width: 90%;
 	}
-	.work2 input{
+	.work2 img{
 		margin: 2%;
 		width: 90%;
 	}
